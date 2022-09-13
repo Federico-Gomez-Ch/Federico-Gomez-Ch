@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Gómez Ch.</h1>
 <h3 align="center">Front end developer jr.</h3>
 
-- 📫 How to reach me **federicogomez016@outlook.com**
+- 📫 How to reach me **federicogomezch@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
